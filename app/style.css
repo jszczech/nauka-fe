@@ -1,0 +1,12 @@
+.todo-app__button {
+    padding: 10px 20px;
+    margin: 0 0 20px 0;
+    border: none;
+    background-color: #234234;
+    color: white;
+    cursor: pointer;
+}
+
+.todo-app__button:hover {
+    background-color: #33614C;
+}
